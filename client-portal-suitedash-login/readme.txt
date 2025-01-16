@@ -3,8 +3,8 @@ Contributors: suitedash
 Donate link: https://suitedash.com
 Tags: client portal, customer portal, white label
 Requires at least: 3.0.1
-Tested up to: 6.4.3
-Stable Tag: 1.8.8
+Tested up to: 6.7.1
+Stable Tag: 1.8.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
