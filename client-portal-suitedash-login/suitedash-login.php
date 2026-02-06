@@ -4,7 +4,7 @@ Plugin Name: Client Portal : SuiteDash Direct Login
 Plugin URI: https://suitedash.com
 Description: Customize your Client Portal experience by providing an easy and seamless login method directly from your WordPress website
 Author: SuiteDash :: ONE Dashboard®
-Version: 1.8.9
+Version: 1.9.0
 Author URI: https://suitedash.com
 */
 
